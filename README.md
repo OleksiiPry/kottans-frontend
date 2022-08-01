@@ -1,1 +1,2 @@
 # kottans-frontend
+My name is Oleksii. I am 28. The course is very informative, I knew most of it, but also emphasized new points. The course and problem solving paid off. It was informative, structured in a planned manner.
