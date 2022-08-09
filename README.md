@@ -5,14 +5,14 @@ My name is Oleksii. I am 28. The course is very informative, I knew most of it, 
 
 ## Git Basics
 
->  **Introduction Sequence**
+ **Introduction Sequence**
 	[Git Introduction Sequence] (../task_git_intro/git_sequence.png)
-> **Push & Pull**
+ **Push & Pull**
 	[Git Push and Pull (../task_git_intro/git_push_&_ pull)
 
 ## Linux CLI, and HTTP
 
-> **Linux Survival**
+ **Linux Survival**
 	*Modul 1*
 	[Linux Survival modul 1] (../task_linux_cli/quiz_1.png)
 	*Modul 2*
