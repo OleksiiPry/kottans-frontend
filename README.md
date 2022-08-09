@@ -9,13 +9,13 @@ My name is Oleksii. I am 28. The course is very informative, I knew most of it, 
 	<sumary>
  Introduction Sequence
  </sumary>
-	![Git Introduction Sequence](https://github.com/OleksiiPry/kottans-frontend/blob/main/task_git_intro/git_push_&_%20pull.png?raw=true)
+	![Git Introduction Sequence](https://github.com/OleksiiPry/kottans-frontend/blob/main/task_git_intro/git-push-pull.png)
 	</details>
 	<details>
 	<sumary>
  Push & Pull
  </sumary>
-	![Git Push and Pull](https://github.com/OleksiiPry/kottans-frontend/blob/main/task_git_intro/git_sequence.png?raw=true)
+	![Git Push and Pull](https://github.com/OleksiiPry/kottans-frontend/blob/main/task_git_intro/git-sequence.png)
 	<details>
 
 ## Linux CLI, and HTTP
