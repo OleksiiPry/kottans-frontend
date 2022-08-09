@@ -5,23 +5,17 @@ My name is Oleksii. I am 28. The course is very informative, I knew most of it, 
 
 ## Git Basics
 
-<details>
-	<sumary>
+
  Introduction Sequence
- </sumary>
 
 	![Git Introduction Sequence](https://github.com/OleksiiPry/kottans-frontend/blob/main/task_git_intro/git-push-pull.png)
 
-	</details>
 
-	<details>
-	<sumary>
+
  Push & Pull
- </sumary>
 
 	![Git Push and Pull](https://github.com/OleksiiPry/kottans-frontend/blob/main/task_git_intro/git-sequence.png)
-	
-	<details>
+
 
 ## Linux CLI, and HTTP
 
