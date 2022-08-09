@@ -6,9 +6,9 @@ My name is Oleksii. I am 28. The course is very informative, I knew most of it, 
 ## Git Basics
 
  **Introduction Sequence**
-	[Git Introduction Sequence] (../task_git_intro/git_sequence.png)
+	![Git Introduction Sequence] (../task_git_intro/git_sequence.png)
  **Push & Pull**
-	[Git Push and Pull (../task_git_intro/git_push_&_ pull)
+	![Git Push and Pull (../task_git_intro/git_push_&_ pull)
 
 ## Linux CLI, and HTTP
 
