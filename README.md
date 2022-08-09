@@ -14,3 +14,6 @@ The course is very informative, I knew most of it, but also emphasized new point
 
 Links for image about git learned.
 
+https://github.com/OleksiiPry/kottans-frontend/blob/main/task_git_collaboration/git-push-pull.png
+
+https://github.com/OleksiiPry/kottans-frontend/blob/main/task_git_collaboration/git-sequence.png
